@@ -29,7 +29,9 @@ User Rights: Users have the right to access the data collected from their keystr
 # Download
 
 https://github.com/bhrainy-byte/PRODIGY_CS_04.git
+# password
 
+ "admin123"
 # Ethical Use Guidelines
 This keylogger is for educational use only. Do not use it for malicious purposes.
 Always obtain explicit consent from the user before logging any keystrokes.
